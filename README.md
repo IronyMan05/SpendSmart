@@ -1,2 +1,3 @@
-# Finance_Tracker_App
+# SpendSmart
+It is a budget tracking app
 
